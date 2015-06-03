@@ -1,0 +1,3 @@
+# Ignore unwanted materials
+.idea
+db.sqlite3
